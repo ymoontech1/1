@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>카운터 예제</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>간단한 카운터</h1>
+        <button id="countButton">클릭하세요!</button>
+        <p id="countDisplay">0</p>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
